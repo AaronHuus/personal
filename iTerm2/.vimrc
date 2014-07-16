@@ -1,0 +1,2 @@
+colorscheme github
+syntax on
