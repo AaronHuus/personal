@@ -1,8 +1,5 @@
 # enable the git bash completion commands
 source ~/.git-prompt.sh
-
-#HuusHouse IP Address
-HUUS_HOUSE=5.231.41.97
  
 # enable git unstaged indicators - set to a non-empty value
 GIT_PS1_SHOWDIRTYSTATE="."
